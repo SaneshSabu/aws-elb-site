@@ -36,7 +36,7 @@ https://www.tooplate.com/view/2114-pixie
                <?php
 $output = shell_exec('echo $HOSTNAME');
 echo "<h1><center><pre>$output</pre></center></h1>";
-echo "<h1><center>Version 4</center></h1>"
+echo "<h1><center>Version 5</center></h1>"
 ?>
             </span>
           </div>
@@ -144,7 +144,7 @@ echo "<h1><center>Version 4</center></h1>"
                 <div class="featured-item">
                   <img src="assets/images/item-06.jpg" alt="Item 6">
                   <h4>Urna ac diam</h4>
-                  <h6>$65.00</h6>
+                  <h6>$65.00</h6>F
                 </div>
               </a>
               <a href="single-product.php">
